@@ -1,2 +1,2 @@
 # SiteRifas
-Website para venda de rifas
+Website feito para venda de rifas universitárias
